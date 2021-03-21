@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@adobe/aem-core-components-angular-spa": "^1.0.4"
+  }
+}
